@@ -1,3 +1,5 @@
+# Adapted from https://github.com/StannisZhou/mixed_hmc/blob/master/scripts/simple_gmm/test_naive_mixed_hmc.py
+
 import matplotlib.pyplot as plt
 import numba
 import numpy as np
