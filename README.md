@@ -1,6 +1,6 @@
 # Introduction
 
-This repo contains code for reproducing the results in the paper **Metropolis Augmented Hamiltonian Monte Carlo** at [*Symposium on Advances in Approximate Bayesian Inference (AABI) 2022*](http://approximateinference.org/).
+This repo contains code for reproducing the results in the paper [**Metropolis Augmented Hamiltonian Monte Carlo**](https://arxiv.org/abs/2201.08044) at [*Symposium on Advances in Approximate Bayesian Inference (AABI) 2022*](http://approximateinference.org/).
 
 # Setting up the environment
 
